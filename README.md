@@ -3,9 +3,10 @@ Projeto utilizando Bootstrap - Origamid
 
 ## Sobre o projeto
 Landing pages utilizando HTML5, Bootstrap 4 , CSS3 & JavaScript. 
+Realizado para obter mais conhecimento sobre o Framework Bootstrap 4 e também as ferramentas básicas de desenvolvimento Front-end!
 
-## Qual a finalidade?
-Obter mais conhecimento sobre o Framework Bootstrap 4 e também as ferramentas básicas de desenvolvimento Front-end!
+## Finalidade do projeto
+Aplicação WEB feita para usuários que procuram viagens para fora do Brasil com segurança e confiança.
 
 ## Initial Landing Page 
 
